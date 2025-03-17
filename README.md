@@ -112,8 +112,7 @@ que é então adicionado à área de resultados da interface (div com id resulta
 
 ***Link de acesso ao jogo:*** 
 
-challenge-amigo-secreto-b6x7kal83-liveabritos-projects.vercel.app
-
+https://challenge-amigo-secreto-dusky-seven.vercel.app/
 
 
 ***Entre na diversão e descubra quem é o seu amigo secreto!***
